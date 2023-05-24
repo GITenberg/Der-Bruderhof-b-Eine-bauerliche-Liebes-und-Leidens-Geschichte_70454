@@ -1,5 +1,8 @@
 _repo: Der-Bruderhof-b-Eine-bauerliche-Liebes-und-Leidens-Geschichte_70454
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70454-h/images/cover.jpg
 creator:
   author:
     agent_name: Sohnrey, Heinrich
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55765
     wikipedia: https://de.wikipedia.org/wiki/Heinrich_Sohnrey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70454#Der-Bruderhof-b-Eine-bauerliche-Liebes-und-Leidens-Geschichte
 gutenberg_issued: '2023-04-03'
 identifiers:
   gutenberg: '70454'
